@@ -1,6 +1,6 @@
 # Personal Library Management System
 
-# It is a simple application designed to manage your book collection efficiently. This application allows users to log in, view, add, edit, sort, and delete book entries.
+## It is a simple application designed to manage your book collection efficiently. This application allows users to log in, view, add, edit, sort, and delete book entries.
 
 ## Table of Contents
 - [Installation](#installation)
