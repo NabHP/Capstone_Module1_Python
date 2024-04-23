@@ -50,6 +50,4 @@ Users can navigate back to the main menu or login menu at any point, allowing fo
 
 - *User Authentification*: Making sure that only authorized users can access the system.
 - *CRUD Operations*: Create, read, update, and delete books in the library.
-- *Sorting*: View books sorted by various fields.
-
 
